@@ -8,5 +8,4 @@ import org.springframework.data.jpa.repository.JpaRepository;
  * @date 2020/7/13 22:18
  */
 public interface PersonDao extends JpaRepository<Person, Integer> {
-
 }
